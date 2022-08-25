@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Training1.Shell1.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.083 s - in Training1.Shell1.AppTest
